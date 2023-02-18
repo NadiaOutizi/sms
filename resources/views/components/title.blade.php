@@ -1,0 +1,3 @@
+<div >
+    Stagiaires List
+</div>
